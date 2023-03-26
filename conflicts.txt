@@ -1,0 +1,9 @@
+C:\Users\dyrek\OneDrive\Pulpit\studia\github>git merge master
+Auto-merging OneDrive/Pulpit/studia/github/github.txt
+CONFLICT (content): Merge conflict in OneDrive/Pulpit/studia/github/github.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
