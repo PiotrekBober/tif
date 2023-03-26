@@ -1,0 +1,7 @@
+Hello github world
+<<<<<<< HEAD
+Zmiana
+Inna zmiana
+=======
+Zmiana
+>>>>>>> master
